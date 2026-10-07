@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Amar Thakare Portfolio
 
 A responsive static portfolio inspired by the layout/content structure of the referenced Nehal Raut portfolio, rebuilt with original code and customized for Amar Thakare.
@@ -29,3 +30,7 @@ Update the placeholder email and LinkedIn URL in `index.html`. Replace the `AT` 
 
 ## Note
 This is an independently written implementation with a similar portfolio structure, not a copy of the original site's source code.
+=======
+# Portfolio-Amar-Thakare
+**MCA Graduate specializing in Python, Backend Development, and Cloud Computing.** Building practical web applications with **Python, Flask, REST APIs, SQL, and AWS**, with a passion for creating scalable and real-world solutions.
+>>>>>>> d0ec6f3a1bb15bdc311130c6db8b2e3c59030827
